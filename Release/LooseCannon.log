@@ -1,0 +1,23 @@
+﻿  LooseCannon.cpp
+LooseCannon.cpp(44): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  gameOverScreen.cpp
+  gameScreen.cpp
+gameScreen.cpp(17): warning C4305: 'argument': truncation from 'double' to 'float'
+gameScreen.cpp(86): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+gameScreen.cpp(91): warning C4305: 'argument': truncation from 'double' to 'float'
+gameScreen.cpp(94): warning C4305: 'argument': truncation from 'double' to 'float'
+gameScreen.cpp(97): warning C4305: 'argument': truncation from 'double' to 'float'
+gameScreen.cpp(100): warning C4305: 'argument': truncation from 'double' to 'float'
+gameScreen.cpp(214): warning C4018: '<': signed/unsigned mismatch
+gameScreen.cpp(258): warning C4018: '<': signed/unsigned mismatch
+gameScreen.cpp(268): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+gameScreen.cpp(269): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+gameScreen.cpp(370): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  menuScreen.cpp
+  Generating code
+  13 of 398 functions ( 3.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    27 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  LooseCannon.vcxproj -> C:\Users\David\Desktop\LooseCannon\Release\LooseCannon.exe
+  LooseCannon.vcxproj -> C:\Users\David\Desktop\LooseCannon\Release\LooseCannon.pdb (Full PDB)
